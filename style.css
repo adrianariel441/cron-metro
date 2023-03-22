@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/15879080-tumblr-de-textura-de-marmore-abstrata-e-usado-para-criar-modelo-de-plano-de-fundo-de-papel-de-parede-para-convite-de-casamento-vetor.jpg);
+}
+
+.cronometro{
+background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/15879080-tumblr-de-textura-de-marmore-abstrata-e-usado-para-criar-modelo-de-plano-de-fundo-de-papel-de-parede-para-convite-de-casamento-vetor.jpg);
+    text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 0 20px 30px #000000;
+    border-radius: 30px;
+}
+p{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.text p {
+    font-family: 'VT323', monospace;
+}
+.text h1{
+    font-family: 'VT323', monospace;
+}
+
+button{
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+footer{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 40px;
+    color: rgb(0, 0, 0);
+}
